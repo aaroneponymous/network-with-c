@@ -1,0 +1,43 @@
+# Ignore build directory
+/build/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Debug files
+*.pch
+*.pdb
+*.mod
+*.idl
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+
+# IDE/editor specific files
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
